@@ -136,7 +136,7 @@ For reference, see: [https://github.com/sequelize/cli](https://github.com/sequel
 - [Express](https://expressjs.com/) - Node Framweork
 - [Awilix](https://github.com/jeffijoe/awilix) - dependency resolution support powered by `Proxy`
 - [PM2](https://github.com/Unitech/pm2) - production process manager for Node.js applications with a built-in load balancer
-- [Tcomb](https://github.com/gcanti/tcomb) - s a library for Node.js and the browser which allows you to check the types of JavaScript values at runtime with a simple and concise syntax
+- [Tcomb](https://github.com/gcanti/tcomb) - is a library for Node.js and the browser which allows you to check the types of JavaScript values at runtime with a simple and concise syntax
 - [Express-status-monitor](https://github.com/RafalWilinski/express-status-monitor) - Simple, self-hosted module based on Socket.io and Chart.js to report realtime server metrics for Express-based node servers.
 - [CORS](https://github.com/expressjs/cors) - a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
 - [Body-parser](https://github.com/expressjs/body-parser) - Node.js body parsing middleware.
