@@ -24,7 +24,9 @@
     "lint:staged": "lint-staged",
     "fresh-install": "rm -rf node_modules && npm cache clean --force && npm install",
     "travis-deploy-once": "travis-deploy-once",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "snyk-protect": "snyk protect",
+    "prepare": "yarn run snyk-protect"
   },
   "lint-staged": {
     "*.js": "lint"
@@ -57,7 +59,8 @@
     "sequelize": "4.37.6",
     "swagger-jsdoc": "1.9.7",
     "tcomb": "3.2.25",
-    "winston": "2.4.2"
+    "winston": "2.4.2",
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "chai": "4.1.2",
@@ -102,5 +105,6 @@
     "publish": [
       "@semantic-release/github"
     ]
-  }
+  },
+  "snyk": true
 }
