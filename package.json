@@ -35,7 +35,7 @@
   "dependencies": {
     "awilix": "3.0.7",
     "awilix-express": "1.0.0",
-    "bcrypt": "2.0.1",
+    "bcrypt": "5.0.0",
     "body-parser": "1.18.2",
     "compression": "1.7.2",
     "cors": "2.8.4",
