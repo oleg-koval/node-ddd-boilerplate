@@ -52,10 +52,10 @@
     "passport": "0.4.0",
     "passport-jwt": "4.0.0",
     "pg": "7.4.1",
-    "pm2": "2.10.3",
+    "pm2": "4.0.0",
     "ramda": "0.25.0",
     "sequelize": "4.37.6",
-    "swagger-jsdoc": "1.9.7",
+    "swagger-jsdoc": "3.0.0",
     "tcomb": "3.2.25",
     "winston": "2.4.2"
   },
