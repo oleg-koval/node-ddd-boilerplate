@@ -33,7 +33,7 @@
   "author": "Joshua C Alpuerto <joshuacalpuerto@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "awilix": "3.0.7",
+    "awilix": "6.1.0",
     "awilix-express": "1.0.0",
     "bcrypt": "2.0.1",
     "body-parser": "1.18.2",
